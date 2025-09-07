@@ -404,6 +404,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/187.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/188.m3u8
 #EXTINF:-1, Canal 189
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/189.m3u8
+#EXTINF:-1, Canal Pluto TV Crime Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 
 
