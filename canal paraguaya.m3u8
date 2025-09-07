@@ -443,6 +443,33 @@ https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mp
 
 #EXTINF:-1 group-title="Paraguay" ch-number="732" tvg-id="Univeso Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxhfthxflIo6TWCqh0k32C_3N-SuHZOC88MgnqeRirC6aOESH9u3RSfVxFrzX7-RUIm0&usqp=CAU", Universo TV Paraguay
 https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+#EXTM3U
+#EXTINF:-1 tvg-id="ParaguayTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Paraguay_TV_logo.png/600px-Paraguay_TV_logo.png" group-title="Paraguay", Paraguay TV
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="Paravision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Paravision_logo.png/600px-Paravision_logo.png" group-title="Paraguay", Paravisión Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SNT_logo.png/600px-SNT_logo.png" group-title="Paraguay", SNT Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="SurTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sur_TV_logo.png/600px-Sur_TV_logo.png" group-title="Paraguay", Sur TV Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Telefuturo_logo.png/600px-Telefuturo_logo.png" group-title="Paraguay", Telefuturo Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Trece_logo.png/600px-Trece_logo.png" group-title="Paraguay", Trece Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_C%C3%A1mara_logo.png/600px-TV_C%C3%A1mara_logo.png" group-title="Paraguay", TV Cámara
+https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="Unicanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Unicanal_logo.png/600px-Unicanal_logo.png" group-title="Paraguay", Unicanal Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live.m3u8
+
+#EXTINF:-1 tvg-id="UniversoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Universo_TV_logo.png/600px-Universo_TV_logo.png" group-title="Paraguay", Universo TV Paraguay
+https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live.m3u8
 
 
 
@@ -453,3 +480,4 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd|user
 
 
 #
+
