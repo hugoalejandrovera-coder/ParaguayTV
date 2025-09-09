@@ -37,8 +37,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1415.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1441.m3u8
 #EXTINF:-1, Canal 19 SNT PARAGUAY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1442.m3u8
-#EXTINF:-1, Canal 20 GEN 2
-https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
+
 #EXTINF:-1, Canal 23 ADULT SWIT
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
 #EXTINF:-1, Canal 24 AXN
@@ -480,4 +479,5 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live.m3u8
 
 
 #
+
 
