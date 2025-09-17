@@ -290,76 +290,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091
 #EXTINF:-1, Canal PLUTO TV SERVICO 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 ch-number="724" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="Paraguay", Paraguay TV
-https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="725" tvg-id="Canal 5 Paravision" tvg-logo="https://dl.dropbox.com/scl/fi/kl3rp5h3no5qhnerm0hjj/paravision.png?rlkey=l1wl9amldkm07v2lj59wqkmub&dl=1", Paravisión Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="726" tvg-id="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es", SNT Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="727" tvg-id="Sur Tv" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg", Sur TV Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="728" tvg-id="Telefuturo" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1", Telefuturo Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="729" tvg-id="El Trece" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png", Trece Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="730" tvg-id="Tv Camara" tvg-logo="https://i.ibb.co/TkT1Dbm/tvcamara.jpg", TV Cámara
-https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="731" tvg-id="Unicanal" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg", Unicanal Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="Paraguay" ch-number="732" tvg-id="Univeso Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxhfthxflIo6TWCqh0k32C_3N-SuHZOC88MgnqeRirC6aOESH9u3RSfVxFrzX7-RUIm0&usqp=CAU", Universo TV Paraguay
-https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd|user-agent=Chrome/61.0.3163.100&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-#EXTM3U
-#EXTINF:-1 tvg-id="ParaguayTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Paraguay_TV_logo.png/600px-Paraguay_TV_logo.png" group-title="Paraguay", Paraguay TV
-https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="Paravision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Paravision_logo.png/600px-Paravision_logo.png" group-title="Paraguay", Paravisión Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SNT_logo.png/600px-SNT_logo.png" group-title="Paraguay", SNT Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="SurTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sur_TV_logo.png/600px-Sur_TV_logo.png" group-title="Paraguay", Sur TV Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Telefuturo_logo.png/600px-Telefuturo_logo.png" group-title="Paraguay", Telefuturo Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Trece_logo.png/600px-Trece_logo.png" group-title="Paraguay", Trece Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="TVCamara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_C%C3%A1mara_logo.png/600px-TV_C%C3%A1mara_logo.png" group-title="Paraguay", TV Cámara
-https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="Unicanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Unicanal_logo.png/600px-Unicanal_logo.png" group-title="Paraguay", Unicanal Paraguay
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live.m3u8
-
-#EXTINF:-1 tvg-id="UniversoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Universo_TV_logo.png/600px-Universo_TV_logo.png" group-title="Paraguay", Universo TV Paraguay
-https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
 #EXTINF:-1 tvg-id="" tvg-name="Fútbol PY" tvg-logo="" group-title="Deportes",Fútbol Paraguay
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Fútbol PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Icono_de_futbol.png" group-title="Deportes",Fútbol Paraguay
-http://tuservidor.com/futbol_paraguay.m3u8
-
 #EXTINF:-1, TIGO SPORT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?dvr_window_length=30
-#EXTINF:-1 tvg-id="" tvg-name="Fútbol PY" tvg-logo="" group-title="Deportes",Fútbol Paraguay
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.m3u8
+
+
 
 
 
