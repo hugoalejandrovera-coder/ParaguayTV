@@ -301,13 +301,8 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?dvr_window_length=30
-#EXTINF:-1, HBO TVSpaceHD DASH
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NTA3NDc2Iiwic2lwIjoiMTg2LjE2LjE2Ny4yMTMiLCJwYXRoIjoiL2xpdmUvYzRlZHMvSEJPSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImEwYjA3NTg2MzBlZGEyM2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.0sC2mPKTvvzkItRNAylDD4J6F9n8ZfTDvpkQrf1pV23MwxawP6utj8gIeSH-sNp0VSRk_BaZNRLV3cCzZwrd2g==/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
-
-
-
+#EXTINF:-1 tvg-id="tigosp" tvg-name="Tigo Sport" tvg-logo="https://example.com/logo.png" group-title="Deportes",Tigo Sport
+https://bdt1.dbcast.live/LzI1WSQpfxFPHQIS1uBoww/1758422562/3138362e31362e3136372e323133/ff800/playlist.m3u8
 
 
 
