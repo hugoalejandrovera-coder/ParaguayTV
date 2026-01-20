@@ -887,19 +887,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6bb17a1f-9f05-11f0-a589-4e80293fc8d6
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f3f32318-9f26-11f0-b4b4-125ab71300f
 #EXTINF:0,ES: (HD) DAZN LALIGA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25125
 #EXTINF:0,ES: (HD REPUESTO) DAZN LALIGA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57344
 #EXTINF:0,ES: (HD REPUESTO2) DAZN LALIGA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/63431
 #EXTINF:0,ES: (FHD) DAZN LALIGA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/54668
 #EXTINF:0,ES: (FHD REPUESTO) DAZN LALIGA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57359
 #EXTINF:0,ES: DAZN LALIGA 2
 #EXTVLCOPT:network-caching=1000
@@ -1045,3 +1045,4 @@ http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5681
 #EXTINF:0,ES: M+ DEPORTES 6
 #EXTVLCOPT:network-caching=1000
 http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5682
+
