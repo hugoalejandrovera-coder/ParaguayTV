@@ -890,9 +890,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA (HD)
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25125](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25125)
+
 #EXTINF:-1 group-title="Deportes",M+ LALIGA (HD)
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5758](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5758)
+
 #EXTINF:-1 group-title="Deportes",M+ COPA DEL REY (HD)
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/58303](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/58303)
@@ -932,7 +934,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u
 #EXTINF:-1 group-title="Deportes",BETIS TV
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57269](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57269)
-
 #EXTINF:-1 group-title="CineSeries",M+ CINE (HD)
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57286](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57286)
@@ -954,7 +955,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u
 #EXTINF:-1 group-title="CineSeries",HISTORIA
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5618](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5618)
-
 #EXTINF:-1 group-title="Infantil",DISNEY CHANNEL
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5596](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5596)
@@ -976,8 +976,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u
 #EXTINF:-1 group-title="Infantil",CLAN TVE
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5580](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5580)
-
-#EXTM3U
 #EXTINF:-1 group-title="TVGeneral",LA 1
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5622](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5622)
@@ -1011,3 +1009,4 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u
 #EXTINF:-1 group-title="TVGeneral",TELESUR
 #EXTVLCOPT:network-caching=2000
 [http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25943](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25943)
+
