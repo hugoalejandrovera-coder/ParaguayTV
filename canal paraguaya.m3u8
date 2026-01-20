@@ -885,68 +885,129 @@ https://stitcher.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u
 
 #EXTINF:-1 tvg-id="63eb9495a8b227000841bf64" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="MTV en Pluto TV" tvg-chno="658", MTV Vergüenza ajena
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6bb17a1f-9f05-11f0-a589-4e80293fc8d6
-https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f3f32318-9f26-11f0-b4b4-125ab71300f9
-# Musicales / Cultura
-#EXTINF:-1 group-title="MusicalesCultura",MTV 00S
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25941
-#EXTINF:-1 group-title="MusicalesCultura",MTV
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5712
-#EXTINF:-1 group-title="MusicalesCultura",MEZZO LIVE
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5689
-#EXTINF:-1 group-title="MusicalesCultura",NATIONAL GEOGRAPHIC
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5714
-#EXTINF:-1 group-title="MusicalesCultura",NAT GEO WILD
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5715
-#EXTINF:-1 group-title="MusicalesCultura",NEOX
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5718
-#EXTINF:-1 group-title="MusicalesCultura",ODISEA
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5724
-#EXTINF:-1 group-title="MusicalesCultura",ENFAMILIA
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5726
-#EXTINF:-1 group-title="MusicalesCultura",SUNDANCE
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5731
-#EXTINF:-1 group-title="MusicalesCultura",SYFY
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5732
-#EXTINF:-1 group-title="MusicalesCultura",UBEAT
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25951
-#EXTINF:-1 group-title="MusicalesCultura",ATRESERIES
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25952
-# Documentales / Especiales
-#EXTINF:-1 group-title="DocumentalesEspeciales",M+ BUEN VIAJE (HD)
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57259
-#EXTINF:-1 group-title="DocumentalesEspeciales",M+ ORIGINALES (HD)
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57283
-#EXTINF:-1 group-title="DocumentalesEspeciales",M+ DOCUMENTALES (HD)
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57284
-#EXTINF:-1 group-title="DocumentalesEspeciales",MAX PPV
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/58113
-#EXTINF:-1 group-title="DocumentalesEspeciales",M+ GOLF (HD)
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5649
-#EXTINF:-1 group-title="DocumentalesEspeciales",M+ GOLF 2 (HD)
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57256
-# Canales Internacionales / Noticias / Especiales
-#EXTINF:-1 group-title="Internacional",CNN
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25923
-#EXTINF:-1 group-title="Internacional",TELEMADRID INT
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5736
-#EXTINF:-1 group-title="Internacional",TV3 CAT
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5743
-#EXTINF:-1 group-title="Internacional",TVE INTERNACIONAL
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5745
-#EXTINF:-1 group-title="Internacional",XTRM
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5751
-#EXTINF:-1 group-title="Internacional",ETB 2
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5759
-#EXTINF:-1 group-title="Internacional",ETB 1
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5760
-#EXTINF:-1 group-title="Internacional",À PUNT
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25925
-#EXTINF:-1 group-title="Internacional",EURONEWS
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25935
-#EXTINF:-1 group-title="Internacional",TELESUR
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25943
-#EXTINF:-1 group-title="Internacional",LA RESISTENCIA
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25938
-#EXTINF:-1 group-title="Internacional",EL TORO TV
-http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25932
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f3f32318-9f26-11f0-b4b4-125ab71300f
 
+#EXTINF:-1 group-title="Deportes",DAZN LALIGA (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25125](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25125)
+#EXTINF:-1 group-title="Deportes",M+ LALIGA (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5758](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5758)
+#EXTINF:-1 group-title="Deportes",M+ COPA DEL REY (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/58303](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/58303)
+#EXTINF:-1 group-title="Deportes",DAZN F1 (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57485](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57485)
+#EXTINF:-1 group-title="Deportes",M+ LIGA DE CAMPEONES (SD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57367](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57367)
+#EXTINF:-1 group-title="Deportes",EUROSPORT 1
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5607](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5607)
+#EXTINF:-1 group-title="Deportes",EUROSPORT 2
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5608](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5608)
+#EXTINF:-1 group-title="Deportes",ESPN DEPORTES
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5605](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5605)
+#EXTINF:-1 group-title="Deportes",M+ DEPORTES (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57481](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57481)
+#EXTINF:-1 group-title="Deportes",M+ GOLF (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5649](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5649)
+#EXTINF:-1 group-title="Deportes",TELEDEPORTE
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5735](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5735)
+#EXTINF:-1 group-title="Deportes",GOL PLAY
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5617](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5617)
+#EXTINF:-1 group-title="Deportes",BARCA TV
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5560](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5560)
+#EXTINF:-1 group-title="Deportes",REAL MADRID TV
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5729](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5729)
+#EXTINF:-1 group-title="Deportes",BETIS TV
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57269](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57269)
+
+#EXTINF:-1 group-title="CineSeries",M+ CINE (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57286](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57286)
+#EXTINF:-1 group-title="CineSeries",M+ SERIES (HD)
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5675](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5675)
+#EXTINF:-1 group-title="CineSeries",HOLLYWOOD
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5619](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5619)
+#EXTINF:-1 group-title="CineSeries",PARAMOUNT CHANNEL
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5727](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5727)
+#EXTINF:-1 group-title="CineSeries",MOVISTAR PLUS+
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57285](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/57285)
+#EXTINF:-1 group-title="CineSeries",STAR CHANNEL
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5613](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5613)
+#EXTINF:-1 group-title="CineSeries",HISTORIA
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5618](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5618)
+
+#EXTINF:-1 group-title="Infantil",DISNEY CHANNEL
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5596](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5596)
+#EXTINF:-1 group-title="Infantil",DISNEY JUNIOR
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5597](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5597)
+#EXTINF:-1 group-title="Infantil",NICK JR
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5720](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5720)
+#EXTINF:-1 group-title="Infantil",NICKELODEON
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5721](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5721)
+#EXTINF:-1 group-title="Infantil",BOING
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5565](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5565)
+#EXTINF:-1 group-title="Infantil",BABY TV
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5559](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5559)
+#EXTINF:-1 group-title="Infantil",CLAN TVE
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5580](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5580)
+
+#EXTM3U
+#EXTINF:-1 group-title="TVGeneral",LA 1
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5622](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5622)
+#EXTINF:-1 group-title="TVGeneral",LA 2
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5623](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5623)
+#EXTINF:-1 group-title="TVGeneral",ANTENA 3
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5555](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5555)
+#EXTINF:-1 group-title="TVGeneral",LA SEXTA
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5625](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5625)
+#EXTINF:-1 group-title="TVGeneral",CUATRO
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5588](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5588)
+#EXTINF:-1 group-title="TVGeneral",NOVA
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5723](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5723)
+#EXTINF:-1 group-title="TVGeneral",ENERGY
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5603](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5603)
+#EXTINF:-1 group-title="TVGeneral",TRECE
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5741](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/5741)
+#EXTINF:-1 group-title="TVGeneral",CNN
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25923](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25923)
+#EXTINF:-1 group-title="TVGeneral",EURONEWS
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25935](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25935)
+#EXTINF:-1 group-title="TVGeneral",TELESUR
+#EXTVLCOPT:network-caching=2000
+[http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25943](http://ex218.nahknpq.top:8080/5511766326029/f4882e9ca362/25943)
